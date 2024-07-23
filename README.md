@@ -1,3 +1,6 @@
+![alt text](<Screenshot 2024-07-23 at 10.51.43 PM.png>)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -84,3 +87,5 @@ git push -u origin main
 sync clerk data to your backend with webhooks
 
 https://clerk.com/docs/integrations/webhooks/sync-data
+
+

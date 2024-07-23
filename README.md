@@ -78,3 +78,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:ShankalpaPokharel/imaginify.git
 git push -u origin main
+
+
+
+sync clerk data to your backend with webhooks
+
+https://clerk.com/docs/integrations/webhooks/sync-data
